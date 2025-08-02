@@ -1,1 +1,2 @@
 # CardioNet-Intelligent-system-for-heart-disease-detection
+real-world healthcare dataset with multiple demographic and medical features. The objective is to classify whether a patient is at high risk of developing a particular disease (e.g., diabetes, heart disease, or stroke). This binary/multi-class classification task involves full ML pipeline implementation—from data loading to model deployment readiness.
